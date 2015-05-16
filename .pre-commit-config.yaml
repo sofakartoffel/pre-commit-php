@@ -1,0 +1,5 @@
+-   repo: git://github.com/pre-commit/pre-commit-hooks
+    sha: a00c16b8a367f3c4f17e1e2ed614d0e6916f8859
+    hooks:
+    -   id: trailing-whitespace
+    -   id: check-yaml

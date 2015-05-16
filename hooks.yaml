@@ -1,0 +1,6 @@
+- id: phpmd
+  name: PHPMD - PHP Mess Detector
+  description: http://phpmd.org/
+  entry: hooks/phpmd.sh
+  language: script
+  files: \.php$
