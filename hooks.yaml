@@ -4,7 +4,7 @@
   entry: hooks/phpcs.sh
   language: script
   files: \.php$
-- id: phpcs-fixer
+- id: phpcbf
   name: PHP_CodeSniffer Fixer
   description: https://github.com/squizlabs/PHP_CodeSniffer
   entry: hooks/phpcbf.sh
