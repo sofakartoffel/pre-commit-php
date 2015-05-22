@@ -5,7 +5,7 @@ Add to config file:
 ```yaml
 -
     repo:   git://github.com/sofakartoffel/pre-commit-php
-    sha:    0.0.3
+    sha:    0.1.0
     hooks:
         -   id: phpcs
         -   id: phpcbf
